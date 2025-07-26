@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding:0;
+    background: aqua;
+}
+h1{
+    color:blue;
+    text-align: center;
+}
+p{
+    color:chartreuse;
+    font-size: 12px;
+}
