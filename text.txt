@@ -1,1 +1,2 @@
-in bootcamp we are going to learn about git and github
+in bootcamp we are going to learn about git and github;
+today's session is just basic about git and github;
